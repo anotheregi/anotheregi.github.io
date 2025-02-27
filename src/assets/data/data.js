@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'Ali Candra',
-            child: 'Putra ke 1',
+            child: 'Putra',
             father: 'Bapak',
             mother: 'Ibu',
             image: './src/assets/images/cowo.png'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Nisa Nurfadillah',
-            child: 'Putri ke 1',
+            child: 'Putri',
             father: 'Bapak',
             mother: 'Ibu',
             image: './src/assets/images/cewe.png'
@@ -22,22 +22,22 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
+            year: '2025',
+            month: 'April',
             date: '14',
-            day: 'Kamis',
+            day: 'Minggu',
             hours: {
-                start: '08.00',
+                start: '09.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'April',
+            date: '13 - 14',
+            day: 'Minggu Malam Senin',
             hours: {
-                start: '11.00',
+                start: '09.00',
                 finish: 'Selesai'
             }
         },
@@ -45,7 +45,7 @@ export const data = {
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
+        calendar: 'https://calendar.app.google/2NXhgKbzjGknC9CS7',
         map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
     },
 
