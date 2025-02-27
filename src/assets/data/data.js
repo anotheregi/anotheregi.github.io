@@ -41,12 +41,12 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Tanjung Belitan, RT 000/ RW 000, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263)'
+        address: 'Kp. Tanjung Belitan, RT 020/ RW 007, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263)'
     },
 
     link: {
         calendar: 'https://calendar.app.google/2NXhgKbzjGknC9CS7',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.app.goo.gl/JQ8oUD4Y3wPXTqVG7',
     },
 
     galeri: [
