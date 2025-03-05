@@ -52,19 +52,19 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: 'https://cdn.garenanow.com/gstaticid/Mainsite/200622.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: 'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/230/2024/09/22/RAJA-AJWA-677970050.jpg'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: 'https://i.ytimg.com/vi/hd3fPBm5lSQ/hq720.jpg'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: 'https://cdn.grid.id/crop/0x0:0x0/945x630/photo/grid/original/7197_w-stories.jpg'
         },
         {
             id: 5,
