@@ -68,7 +68,7 @@ export const data = {
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: 'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/191/2024/09/23/Potret-Streamer-iShowSpeed-saat-berkunjung-ke-Bali-Xcom-SpeedUpdates1-3569408814.jpg'
         }
     ],
 
