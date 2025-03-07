@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/nisa.jpg'
         },
 
-        couple: './src/assets/images/5.jpg'
+        couple: './src/assets/images/3.jpg'
     },
 
     time: {
@@ -60,7 +60,7 @@ export const data = {
         },
         {
             id: 3,
-            image: './src/assets/images/3.jpg'
+            image: './src/assets/images/5.jpg'
         },
         {
             id: 4,
