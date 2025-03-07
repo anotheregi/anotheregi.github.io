@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/nisa.jpg'
         },
 
-        couple: './src/assets/images/ALQ_9407.jpg'
+        couple: './src/assets/images/ccouple.jpg'
     },
 
     time: {
