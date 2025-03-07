@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra',
             father: 'Bapak',
             mother: 'Ibu',
-            image: './src/assets/images/cowo.png'
+            image: './src/assets/images/ali.jpg'
         },
         P: {
             id: 2,
@@ -14,7 +14,7 @@ export const data = {
             child: 'Putri',
             father: 'Bapak',
             mother: 'Ibu',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/nisa.jpg'
         },
 
         couple: './src/assets/images/ALQ_9407.jpg'
