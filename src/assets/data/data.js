@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/nisa.jpg'
         },
 
-        couple: './src/assets/images/ccouple.jpg'
+        couple: './src/assets/images/5.jpg'
     },
 
     time: {
@@ -52,23 +52,23 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: 'https://cdn.garenanow.com/gstaticid/Mainsite/200622.jpg'
+            image: './src/assets/images/1.jpg'
         },
         {
             id: 2,
-            image: 'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/230/2024/09/22/RAJA-AJWA-677970050.jpg'
+            image: './src/assets/images/2.jpg'
         },
         {
             id: 3,
-            image: 'https://i.ytimg.com/vi/hd3fPBm5lSQ/hq720.jpg'
+            image: './src/assets/images/3.jpg'
         },
         {
             id: 4,
-            image: 'https://cdn.grid.id/crop/0x0:0x0/945x630/photo/grid/original/7197_w-stories.jpg'
+            image: './src/assets/images/4.jpg'
         },
         {
             id: 5,
-            image: 'https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/191/2024/09/23/Potret-Streamer-iShowSpeed-saat-berkunjung-ke-Bali-Xcom-SpeedUpdates1-3569408814.jpg'
+            image: './src/assets/images/couple.jpg'
         }
     ],
 
