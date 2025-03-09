@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Tanjung Belitan, RT 020/ RW 007, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263)'
+        address: 'Kp. Tanjung Belitan, RT 020/ RW 007, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263) /n (Kediaman Mempelai Wanita)'
     },
 
     link: {
