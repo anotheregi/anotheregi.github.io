@@ -29,6 +29,8 @@
 .home figure img {
     width: 10rem;
     height: 10rem;
+    object-fit: cover;
+    border-radius: 50%;
     border: 10px solid transparent;
     padding: 15px;
     border-image: url(https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3964.jpg) 50 round;
