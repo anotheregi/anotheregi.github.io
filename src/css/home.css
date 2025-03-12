@@ -32,7 +32,10 @@
     object-fit: cover;
     border-radius: 50%;
     border: 10px solid transparent;
-    padding: 15px;
+    border-top-left-radius: 50% 50%; 
+    border-top-right-radius: 50% 50%; 
+    border-bottom-right-radius: 50% 50%; 
+    border-bottom-left-radius: 50% 50%;
     border-image: url(https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3964.jpg) 50 round;
 }
 
