@@ -29,14 +29,9 @@
 .home figure img {
     width: 10rem;
     height: 10rem;
-    object-fit: cover;
     border-radius: 50%;
-    border: 10px solid transparent;
-    border-top-left-radius: 50% 50%; 
-    border-top-right-radius: 50% 50%; 
-    border-bottom-right-radius: 50% 50%; 
-    border-bottom-left-radius: 50% 50%;
-    border-image: url(https://img.freepik.com/free-vector/floral-frame_23-2148053436.jpg) 50 round;
+    object-fit: cover;
+    box-shadow: var(--shadow-md);
 }
 
 .home figure figcaption {
