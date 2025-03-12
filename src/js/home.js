@@ -8,7 +8,7 @@ export const home = () => {
     const generateFigureContent = ({bride}) => {
         const {L: {inisial: brideLName}, P: {inisial: bridePName}, couple: coupleImage} = bride;
         return `
-            <img src="${coupleImage}" alt="couple animation">
+            <id="bim" img src="${coupleImage}" alt="couple animation">
             <figcaption>
                 ${brideLName.split(' ')[0]} & ${bridePName.split(' ')[0]}
             </figcaption>`;
