@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Tanjung Belitan, RT 020/ RW 007, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263) /n (Kediaman Mempelai Wanita)'
+        address: 'Kp. Tanjung Belitan, RT 020/ RW 007, Desa. Tanjung Rasa Kidul, Kec. Patokbeusi, Kab. Subang, Jawa Barat (41263)'
     },
 
     link: {
@@ -81,7 +81,9 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/wedding.mp3',
+    audio: './src/assets/audio/nyoman.mp3',
+
+    kdm: '(Kediaman Mempelai Wanita)',
 
     api: 'https://script.google.com/macros/s/AKfycbxkYTK-3_kyfPBXrLuSt0LMdHatLf7uNPkkuL0zJWYPIpOd2WCKXOGWgAsRUGNhCGuY/exec',
 
