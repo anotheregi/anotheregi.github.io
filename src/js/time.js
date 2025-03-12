@@ -17,5 +17,5 @@ export const time = () => {
 
     mapLink.href = data.link.map;
     addressParagraph.textContent = data.time.address;
-    addressParagraph.textContent = data.time.address2;
+    //addressParagraph.textContent = data.time.address2;
 };
