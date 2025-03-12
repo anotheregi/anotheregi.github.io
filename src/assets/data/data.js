@@ -3,6 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'Ali Candra',
+            inisial: 'A',
             child: 'Putra',
             father: 'Bapak',
             mother: 'Ibu',
@@ -11,6 +12,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Nisa Nurfadillah',
+            inisial: 'N',
             child: 'Putri',
             father: 'Bapak',
             mother: 'Ibu',
