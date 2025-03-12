@@ -32,9 +32,12 @@
     border-radius: 50%;
     object-fit: cover;
     box-shadow: var(--shadow-md);
-    border: 10px solid transparent;
-    padding: 15px;
-    border-image: url(https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3964.jpg) 50 round;
+}
+
+.bim {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(https://img.freepik.com/free-vector/red-flower-bloom-golden-glitter-flower-frame-border_41066-3964.jpg) 50 round;
 }
 
 .home figure figcaption {
