@@ -35,6 +35,17 @@ body {
     overflow-y: hidden;
 }
 
+#begron {
+    background-image: url(https://alinisa.web.id/src/assets/images/bg.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
+
 body.active {
     overflow-y: auto;
 }
