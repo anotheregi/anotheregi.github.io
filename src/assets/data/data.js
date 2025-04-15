@@ -24,7 +24,7 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2025',
+            year: '2030',
             month: 'April',
             date: '13',
             day: 'Minggu',
@@ -34,7 +34,7 @@ export const data = {
             }
         },
         reception: {
-            year: '2025',
+            year: '2030',
             month: 'April',
             date: '13',
             day: 'Minggu Malam Senin',
